@@ -1,0 +1,54 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: Gui - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating command line "rc.exe /l 0x409 /fo".\Debug/REMOTE.res" /i "..\inc" /i "..\..\inc" /i ".\Debug" /d "_DEBUG" /d "WIN32" "C:\Program Files\VLC\Development\hsl_Innogrity\GUI\REMOTE.rc"" 
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP2B.tmp" with contents
+[
+/nologo /MTd /W4 /Gm /ZI /Od /I "..\inc" /I "..\..\inc" /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "STRICT" /FR".\Debug/" /Fp".\Debug/Gui.pch" /YX /Fo".\Debug/" /Fd".\Debug/" /FD /c 
+"C:\Program Files\VLC\Development\hsl_Innogrity\GUI\DEVICES.CPP"
+"C:\Program Files\VLC\Development\hsl_Innogrity\GUI\GOODIES.CPP"
+"C:\Program Files\VLC\Development\hsl_Innogrity\GUI\MFCSTUFF.CPP"
+"C:\Program Files\VLC\Development\hsl_Innogrity\GUI\NETWORK.CPP"
+"C:\Program Files\VLC\Development\hsl_Innogrity\GUI\POINTS.CPP"
+"C:\Program Files\VLC\Development\hsl_Innogrity\GUI\REMOTE.cpp"
+]
+Creating command line "cl.exe @C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP2B.tmp" 
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP2C.tmp" with contents
+[
+oldnames.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /nologo /subsystem:windows /dll /incremental:yes /pdb:".\Debug/REMOTE.pdb" /debug /machine:IX86 /out:".\Debug\REMOTE.dll" /implib:".\Debug/REMOTE.lib" 
+".\Debug\DEVICES.OBJ"
+".\Debug\GOODIES.OBJ"
+".\Debug\MFCSTUFF.OBJ"
+".\Debug\NETWORK.OBJ"
+".\Debug\POINTS.OBJ"
+".\Debug\REMOTE.obj"
+".\Debug\REMOTE.res"
+]
+Creating command line "link.exe @C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP2C.tmp"
+<h3>Output Window</h3>
+Compiling resources...
+Compiling...
+DEVICES.CPP
+GOODIES.CPP
+MFCSTUFF.CPP
+NETWORK.CPP
+POINTS.CPP
+REMOTE.cpp
+Linking...
+   Creating library .\Debug/REMOTE.lib and object .\Debug/REMOTE.exp
+Creating command line "bscmake.exe /nologo /o".\Debug/Gui.bsc"  ".\Debug\DEVICES.SBR" ".\Debug\GOODIES.SBR" ".\Debug\MFCSTUFF.SBR" ".\Debug\NETWORK.SBR" ".\Debug\POINTS.SBR" ".\Debug\REMOTE.sbr""
+Creating browse info file...
+<h3>Output Window</h3>
+
+
+
+<h3>Results</h3>
+REMOTE.dll - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>

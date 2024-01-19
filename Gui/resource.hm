@@ -1,0 +1,4 @@
+// Microsoft Developer Studio generated Help ID include file.
+// Used by REMOTE.rc
+//
+#define HIDC_E_SET_ARRAYSIZE            0x80790131    // IDD_DRVF_SETGET

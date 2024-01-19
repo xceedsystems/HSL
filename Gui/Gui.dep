@@ -1,0 +1,121 @@
+# Microsoft Developer Studio Generated Dependency File, included by Gui.mak
+
+.\DEVICES.CPP : \
+	"..\..\inc\begininc.h"\
+	"..\..\inc\dataseg.h"\
+	"..\..\inc\drvrid.h"\
+	"..\..\inc\drvrsym.h"\
+	"..\..\inc\drvrutil.h"\
+	"..\..\inc\endinc.h"\
+	"..\..\inc\ssiport.h"\
+	"..\..\inc\SYMDB.tlb"\
+	"..\..\inc\symrec.h"\
+	"..\..\inc\vlcport.h"\
+	"..\INC\Driver.h"\
+	".\DEVICES.H"\
+	".\GOODIES.H"\
+	".\MFCSTUFF.H"\
+	".\POINTS.H"\
+	".\stdafx.h"\
+	"m:\microsoft visual studio\vc98\include\basetsd.h"\
+	
+
+.\GOODIES.CPP : \
+	"..\..\inc\begininc.h"\
+	"..\..\inc\dataseg.h"\
+	"..\..\inc\drvrid.h"\
+	"..\..\inc\drvrsym.h"\
+	"..\..\inc\drvrutil.h"\
+	"..\..\inc\endinc.h"\
+	"..\..\inc\ssiport.h"\
+	"..\..\inc\SYMDB.tlb"\
+	"..\..\inc\symrec.h"\
+	"..\..\inc\vlcport.h"\
+	"..\INC\Driver.h"\
+	".\GOODIES.H"\
+	".\MFCSTUFF.H"\
+	".\stdafx.h"\
+	"m:\microsoft visual studio\vc98\include\basetsd.h"\
+	
+
+.\MFCSTUFF.CPP : \
+	"..\..\inc\ssiport.h"\
+	".\MFCSTUFF.H"\
+	".\stdafx.h"\
+	"m:\microsoft visual studio\vc98\include\basetsd.h"\
+	
+
+.\NETWORK.CPP : \
+	"..\..\inc\begininc.h"\
+	"..\..\inc\dataseg.h"\
+	"..\..\inc\drvrid.h"\
+	"..\..\inc\drvrio.h"\
+	"..\..\inc\drvrsym.h"\
+	"..\..\inc\drvrutil.h"\
+	"..\..\inc\endinc.h"\
+	"..\..\inc\ssiport.h"\
+	"..\..\inc\SYMDB.tlb"\
+	"..\..\inc\symrec.h"\
+	"..\..\inc\vlcport.h"\
+	"..\INC\Driver.h"\
+	".\DEVICES.H"\
+	".\GOODIES.H"\
+	".\MFCSTUFF.H"\
+	".\NETWORK.H"\
+	".\POINTS.H"\
+	".\stdafx.h"\
+	"m:\microsoft visual studio\vc98\include\basetsd.h"\
+	
+
+.\PCI3TIER.CPP : \
+	"..\..\inc\begininc.h"\
+	"..\..\inc\dataseg.h"\
+	"..\..\inc\drvrdll.h"\
+	"..\..\inc\drvrid.h"\
+	"..\..\inc\drvrio.h"\
+	"..\..\inc\drvrsym.h"\
+	"..\..\inc\drvrutil.h"\
+	"..\..\inc\endinc.h"\
+	"..\..\inc\ssiport.h"\
+	"..\..\inc\SYMDB.tlb"\
+	"..\..\inc\symrec.h"\
+	"..\..\inc\vlcport.h"\
+	"..\INC\Driver.h"\
+	".\DEVICES.H"\
+	".\GOODIES.H"\
+	".\MFCSTUFF.H"\
+	".\NETWORK.H"\
+	".\POINTS.H"\
+	".\stdafx.h"\
+	"m:\microsoft visual studio\vc98\include\basetsd.h"\
+	
+
+.\POINTS.CPP : \
+	"..\..\inc\begininc.h"\
+	"..\..\inc\dataseg.h"\
+	"..\..\inc\drvrid.h"\
+	"..\..\inc\drvrsym.h"\
+	"..\..\inc\drvrutil.h"\
+	"..\..\inc\endinc.h"\
+	"..\..\inc\ssiport.h"\
+	"..\..\inc\SYMDB.tlb"\
+	"..\..\inc\symrec.h"\
+	"..\..\inc\vlcport.h"\
+	"..\INC\Driver.h"\
+	".\GOODIES.H"\
+	".\MFCSTUFF.H"\
+	".\POINTS.H"\
+	".\stdafx.h"\
+	"m:\microsoft visual studio\vc98\include\basetsd.h"\
+	
+
+.\REMOTE.RC : \
+	"..\..\inc\dataseg.h"\
+	"..\..\inc\drvrid.h"\
+	"..\..\inc\verbldll.rc2"\
+	"..\..\inc\verblock.rc2"\
+	"..\..\inc\vlcport.h"\
+	"..\INC\Driver.h"\
+	"..\INC\REMOTE.hh"\
+	".\REMOTE.RCD"\
+	
